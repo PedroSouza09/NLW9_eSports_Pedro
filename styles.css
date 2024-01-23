@@ -118,6 +118,17 @@ section ul li:hover {
   border: 1px solid #443e54;
 }
 
+footer {
+  color: white;
+  padding: 24px 0;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer a:hover {
+  color: blue;
+}
+
 /* animation */
 
 header div {
